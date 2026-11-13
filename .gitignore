@@ -1,0 +1,26 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled object and binary files
+*.o
+*.obj
+*.bin
+*.elf
+*.hex
+
+# Logs and databases
+*.log
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
